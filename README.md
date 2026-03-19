@@ -6,7 +6,7 @@ End-to-end Machine Learning project to predict medical insurance costs using reg
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?logo=scikit-learn)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red?logo=streamlit)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
