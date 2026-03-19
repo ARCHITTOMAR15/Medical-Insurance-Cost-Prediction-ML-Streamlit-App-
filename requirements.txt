@@ -4,6 +4,4 @@ numpy
 scikit-learn
 matplotlib
 joblib
-reportlab==3.6.13
 pillow
-
